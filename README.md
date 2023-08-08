@@ -6,7 +6,9 @@ My name is Allison. I am a passionate developer who loves to create digital solu
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/electron/electron.png"></code>
 <!-- <code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code> -->
 
